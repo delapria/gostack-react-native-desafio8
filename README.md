@@ -2,7 +2,7 @@
   Desafio 08: Fundamentos do React Native
 </h3>
 
-![GoMarketplace](/gostack-react-native-desafio8/.github/gomarcketplace.gif)
+![GoMarketplace](/gostack-react-native-desafio8/.github/gomarketplace.gif)
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
