@@ -1,8 +1,10 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
 <h3 align="center">
   Desafio 08: Fundamentos do React Native
 </h3>
+
+![GoMarketplace](/gostack-react-native-desafio8/.github/lognin-createAcount.gif)
+
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
 
